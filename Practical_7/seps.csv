@@ -1,0 +1,39 @@
+IcdChapter,Field,FY1993,FY1994,FY1995,FY1996,FY1997,FY1998
+0. Not Reported,PatientDays,257965,55582,128507,182226,61599,685879
+0. Not Reported,Separations,37178,6146,3832,4861,1558,53575
+1. Infectious and Parasitic Diseases,PatientDays,311221,313386,324693,311560,306688,1567548
+1. Infectious and Parasitic Diseases,Separations,75857,78323,84631,80864,79148,398823
+2. Neoplasms,PatientDays,1686919,1707437,1795751,1770559,1777452,8738118
+2. Neoplasms,Separations,301928,336447,348905,360578,378070,1725928
+"3. Endocrine Nutritional, and Metabolic Diseases and Immunity Disorders",PatientDays,328354,326877,349671,351119,354723,1710744
+"3. Endocrine Nutritional, and Metabolic Diseases and Immunity Disorders",Separations,50365,54292,60655,65483,68605,299400
+4. Diseases of the Blood and Blood?Forming Organs,PatientDays,142332,147120,156280,163412,166802,775946
+4. Diseases of the Blood and Blood?Forming Organs,Separations,46969,50769,56758,62771,67672,284939
+5. Mental Disorders,PatientDays,1577877,1504333,2592320,2985958,3188096,11848584
+5. Mental Disorders,Separations,134763,137649,191183,204431,234956,902982
+6. Diseases of the Nervous System and Sense Organs,PatientDays,834321,813641,847875,724009,710442,3930288
+6. Diseases of the Nervous System and Sense Organs,Separations,239654,253926,271670,285428,295636,1346314
+7. Diseases of the Circulatory System,PatientDays,2744513,2655199,2619227,2504849,2460316,12984104
+7. Diseases of the Circulatory System,Separations,372874,394063,412575,421487,433582,2034581
+8. Diseases of the Respiratory System,PatientDays,1411418,1420379,1410919,1434499,1503074,7180289
+8. Diseases of the Respiratory System,Separations,299109,300910,305631,312798,331497,1549945
+9. Diseases of the Digestive System,PatientDays,1613802,1669483,1649122,1600551,1599629,8132587
+9. Diseases of the Digestive System,Separations,539052,590133,632331,644771,663541,3069828
+10. Diseases of the Genitourinary System,PatientDays,1099668,1083135,1013750,957021,953123,5106697
+10. Diseases of the Genitourinary System,Separations,354076,372707,356480,347674,363340,1794277
+"11. Complications of Pregnancy, Childbirth, and the Puerperium",PatientDays,1641297,1636322,1553188,1502507,1467952,7801266
+"11. Complications of Pregnancy, Childbirth, and the Puerperium",Separations,423608,430918,428187,430087,434134,2146934
+12. Diseases of the Skin and Subcutaneous Tissue,PatientDays,458155,452701,454243,429931,427203,2222233
+12. Diseases of the Skin and Subcutaneous Tissue,Separations,87083,88920,91085,95015,97978,460081
+13. Diseases of the Musculoskeletal System and Connective Tissue,PatientDays,1405551,1372541,1365553,1287247,1291263,6722155
+13. Diseases of the Musculoskeletal System and Connective Tissue,Separations,275554,286415,294052,300126,312383,1468530
+14. Congenital Anomalies,PatientDays,145054,133575,134536,130691,117612,661468
+14. Congenital Anomalies,Separations,36790,34347,35272,34383,34613,175405
+15. Certain Conditions Originating in the Perinatal Period,PatientDays,484641,445269,442370,437252,445001,2254533
+15. Certain Conditions Originating in the Perinatal Period,Separations,63011,55015,51064,46311,48099,263500
+"16. Symptoms, Signs and Ill?Defined Conditions",PatientDays,747943,759598,777964,767115,788946,3841566
+"16. Symptoms, Signs and Ill?Defined Conditions",Separations,246752,261302,277289,297481,318088,1400912
+17. Injury and Poisoning,PatientDays,1895224,1838321,1831864,1770099,1765479,9100987
+17. Injury and Poisoning,Separations,365908,379247,393941,389829,403387,1932312
+18. Factors Influencing Health Status and Contact with Health Services,PatientDays,2237646,2638779,2999856,3055220,3169730,14101231
+18. Factors Influencing Health Status and Contact with Health Services,Separations,658363,768737,875268,942537,996787,4241692
