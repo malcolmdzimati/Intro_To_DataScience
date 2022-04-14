@@ -1,0 +1,11 @@
+"Emp_ID","Emp_Name","Emp_Surname","Emp_ID_Number","Emp_Gender","Emp_Cellnumber","Emp_Homenumber","Emp_Email","Emp_Res_Street_Address","Emp_Res_Code","Emp_Postal_Addres","Emp_Postal_Code","Title_ID","Sub_ID","City_ID"
+1,Allan,Cartman,1234567891234,1,0733259632,0123222289,Allan@webmail.co.za,15 Park Street,0032,P.O Box 9632 reveria,0502,2,1,1
+2,Elsabe,Smith,9874563210123,1,0721234567,0123456333,Elsabe@webmail.co.za,16 Green Street,1122,P.O Box 8520 reveria,0062,3,1,1
+3,Lindiwe,Baloyi,4567891230963,1,0731234569,0123456852,Lindiwe@webmail.co.za,10 North Street,0122,P.O Box 9300 reveria,0122,1,1,1
+4,Lerato,Sechaba,13214567890753,1,0821234568,0123456963,Lerato@webmail.co.za,10 Rebecca Street,0002,P.O Box 8900 reveria,0023,1,1,1
+11,Dineo,Mashaba,13214963580753,1,0836638965,0123456968,dineo@webmail.co.za,18 Rebecca Street,0002,P.O Box 8850 reveria,0026,1,1,1
+5,Boity,Senzo,1234567891854,1,0826339586,0123226289,Boity@webmail.co.za,158 Park Street,0832,P.O Box 9987 reveria,4822,2,5,1
+6,Mene,Kelly,9352563210123,1,0725556567,0123456733,Mene@ymail.co.za,167 Reen Street,1822,P.O Box 8560 reveria,4851,3,1,6
+7,Mimi,Baloyi,4567891230963,1,0731234569,0123456892,Mimi@upmail.co.za,108 Douth Street,0182,P.O Box 920 reveria,7521,1,4,1
+8,Bonanag,Szwart,13214567890753,1,0821275988,0123456773,Bonanag@upmail.co.za,140 Rebecca Street,0502,P.O Box 82 reveria,8523,1,4,5
+9,Slikour,Swatta,13214963580753,1,0865328965,0123456268,Slikour@shaimail.co.za,1 Rebecca Street,0012,P.O Box 1 reveria,9632,1,4,6
